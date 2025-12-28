@@ -1,4 +1,4 @@
-# ALM3 Decoder
+# ALM3 Converter
 
 解密 `.alm3` 格式的加密音频文件，输出为 MP3 格式。
 
