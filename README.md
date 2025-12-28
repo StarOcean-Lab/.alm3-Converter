@@ -1,14 +1,14 @@
 # ALM3 Converter
 
-解密 `.alm3` 格式的加密音频文件，输出为 MP3 格式。
+转换 `.alm3` 格式的加密音频文件，输出为 MP3 格式。
 
 ## 使用方法
 
 ```bash
-# 解密单个文件
+# 转换单个文件
 python alm3_decoder.py music.alm3
 
-# 批量解密目录下所有 .alm3 文件
+# 批量转换目录下所有 .alm3 文件
 python alm3_decoder.py ./my_music_folder/
 ```
 
